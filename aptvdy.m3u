@@ -1,4 +1,23 @@
-#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 group-title="⚽世界杯专场" tvg-name="cctv5" tvg-logo="https://epg.112114.xyz/logo/cctv5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv5
+http://82.156.243.185:36888/av3a/cctv5n.m3u8
+#EXTINF:-1 group-title="⚽世界杯专场" tvg-name="cctv5p" tvg-logo="https://epg.112114.xyz/logo/cctv5p.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv5p
+http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+#EXTINF:-1 group-title="⚽世界杯专场" tvg-name="cctv16" tvg-logo="https://epg.112114.xyz/logo/cctv16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv16
+http://82.156.243.185:36888/av3a/cctv16n.m3u8
+#EXTINF:-1 group-title="⚽世界杯专场" tvg-name="cctv4k" tvg-logo="https://epg.112114.xyz/logo/cctv4k.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv4k
+http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+#EXTINF:-1 group-title="⚽世界杯专场" tvg-name="cctv8k" tvg-logo="https://epg.112114.xyz/logo/cctv8k.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv8k
+http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+#EXTINF:-1 group-title="⚽世界杯专场" tvg-name="cctv5" tvg-logo="https://epg.112114.xyz/logo/cctv5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv5
+http://82.156.243.185:36888/av3a/cctv5.m3u8
+#EXTINF:-1 group-title="⚽世界杯专场" tvg-name="cctv5p" tvg-logo="https://epg.112114.xyz/logo/cctv5p.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv5p
+http://82.156.243.185:36888/av3a/cctv5p.m3u8
+#EXTINF:-1 group-title="⚽世界杯专场" tvg-name="cctv16" tvg-logo="https://epg.112114.xyz/logo/cctv16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv16
+http://82.156.243.185:36888/av3a/cctv16.m3u8
+#EXTINF:-1 group-title="⚽世界杯专场" tvg-name="cctv4k" tvg-logo="https://epg.112114.xyz/logo/cctv4k.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv4k
+http://82.156.243.185:36888/av3a/cctv4k.m3u8
+#EXTINF:-1 group-title="⚽世界杯专场" tvg-name="cctv8k" tvg-logo="https://epg.112114.xyz/logo/cctv8k.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv8k
+http://82.156.243.185:36888/av3a/cctv8k.m3u8#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
